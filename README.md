@@ -44,10 +44,6 @@ Contributions are welcome! If you'd like to contribute to BuzzLine, please follo
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Create a new Pull Request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Feel free to further customize the content to match your project's specific details and requirements!
